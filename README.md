@@ -2,4 +2,4 @@
 
 Линк към решенията:
 
-https://github.com/VIvanovSp/Cryptography/blob/main/CryptographySolutionTest.pdf
+[Решения](https://github.com/VIvanovSp/Cryptography/blob/main/CryptographySolutionTest.pdf)
